@@ -33,7 +33,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="![image](https://github.com/user-attachments/assets/b0c08c41-bdfd-40b2-ac10-bc28fa76b7b2)"/>
 </p>
 <p>
 I retrevied the public IP address from the virtual machine in Azure. I launch remote desktop and utlized the IP addresss to launch the virtual machine. 
