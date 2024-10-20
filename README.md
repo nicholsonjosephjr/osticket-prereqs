@@ -33,7 +33,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="![image](https://github.com/user-attachments/assets/b0c08c41-bdfd-40b2-ac10-bc28fa76b7b2)"/>
+<img src="![image](https://github.com/user-attachments/assets/265c3374-b924-4d77-8fee-d36ad84dac99)
+/>
 </p>
 <p>
 I retrevied the public IP address from the virtual machine in Azure. I launch remote desktop and utlized the IP addresss to launch the virtual machine. 
