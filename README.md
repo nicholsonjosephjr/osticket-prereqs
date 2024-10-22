@@ -74,10 +74,18 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p> STEP 19: On left, Click on "This PC" and the click on "Windows C" </p>
     <img src="https://i.imgur.com/TRtgxxZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
     <p> STEP 20: Create a folder and title it "PHP" make sure all the letters are capitalized </p>
-    <img src="https://i.imgur.com/buqJYtu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> STEP 20  </p>
-    <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> STEP 20  </p>
-    <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> STEP 20  </p>
-    <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> STEP 20  </p>
+    <img src="https://i.imgur.com/buqJYtu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+    <p> STEP 21: From the “osTicket-Installation-Files” folder, right click on "php-7.3.8-nts-Win32-VC15-x86" and select "extract all" </p>
+<img src="https://i.imgur.com/42cvH8W.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>   
+
+<p> STEP 22: Set the location to the C:\PHP and click extract </p>
+<img src="https://i.imgur.com/tXZkTxI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/PJoUIPG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+<p> STEP 23: All the files should look like the picture below </p>
+<img src="https://i.imgur.com/t2wWLox.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+    
+ <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> STEP 20  </p>
+  <p> STEP 20  </p>
     <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> STEP 20  </p>
     <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> STEP 20  </p>
     <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> STEP 20  </p>
