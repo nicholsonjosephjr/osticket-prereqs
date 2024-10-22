@@ -22,11 +22,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Enable IIS, CGI 
+- PHP manager 
+- Rewrite Module 2 
+- VC_redist.x86.exe 
+- MySQL 5.5.62 
+
 
 <h2>Installation Steps</h2>
 
@@ -53,17 +54,20 @@ Download the osTicket installation files and set the extraction onto your deskto
 
 <p>
 <img src="https://i.imgur.com/wI7zNbH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<p> Go into the installation file and click on PHP Manager and run the install, install the Rewrite Module. Then create a PHP Directory 
+</p> 
 <img src="https://i.imgur.com/mwtTW0W.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/wI7zNbH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/VT4vXSR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/kY2wWnt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-  <img src="https://i.imgur.com/28y14Lg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-  <img src="https://i.imgur.com/28y14Lg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-  <img src="https://i.imgur.com/bQMjMLD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-  <img src="https://i.imgur.com/oTSIGUt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-  <img src="https://i.imgur.com/rWniffS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-  <img src="https://i.imgur.com/twaDvHm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-  <img src="https://i.imgur.com/YClpW8k.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/28y14Lg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/28y14Lg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/bQMjMLD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/oTSIGUt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/rWniffS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/twaDvHm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/YClpW8k.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
     
 </p>
 <p>
