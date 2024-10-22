@@ -77,42 +77,41 @@ This tutorial outlines the prerequisites and installation of the open-source hel
     <img src="https://i.imgur.com/buqJYtu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
     <p> STEP 21: From the “osTicket-Installation-Files” folder, right click on "php-7.3.8-nts-Win32-VC15-x86" and select "extract all" </p>
 <img src="https://i.imgur.com/42cvH8W.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>   
-
 <p> STEP 22: Set the location to the C:\PHP and click extract </p>
 <img src="https://i.imgur.com/tXZkTxI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/PJoUIPG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 <p> STEP 23: All the files should look like the picture below </p>
 <img src="https://i.imgur.com/t2wWLox.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-    
- <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> STEP 20  </p>
-  <p> STEP 20  </p>
-    <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> STEP 20  </p>
-    <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> STEP 20  </p>
-    <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> STEP 20  </p>
-    <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> STEP 20  </p>
-    <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> STEP 20  </p>
-    <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> STEP 20  </p>
-    <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> STEP 20  </p>
-    <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> STEP 20  </p>
-    <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> STEP 20  </p>
-    <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> STEP 20  </p>
-    <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> STEP 20  </p>
-    <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> STEP 20  </p>
-    <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> STEP 20  </p>
-    <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> STEP 20  </p>
-    <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> STEP 20  </p>
-    <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> STEP 20  </p>
-    <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> STEP 20  </p>
-    <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> STEP 20  </p>
-    <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> STEP 20  </p>
-    <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> STEP 20  </p>
-    <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> STEP 20  </p>
-    <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> STEP 20  </p>
-    <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> STEP 20  </p>
-    <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> STEP 20  </p>
-    <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> STEP 20  </p>
-    <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> STEP 20  </p>
-    <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p> STEP 24: From the “osTicket-Installation-Files” folder, install VC_redist.x86.exe.  </p>
+<img src="https://i.imgur.com/lMaCG50.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
+    <p> STEP 25: Select "I agree with the License Agreement" and click "Install" </p>
+<img src="https://i.imgur.com/VxY0YNO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
+<img src="https://i.imgur.com/YbiOhtq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
+<img src="https://i.imgur.com/T1RHILO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
+    <P> STEP 26: From the “osTicket-Installation-Files” folder, install mysql-5.5.62-win32.msi </P>
+<img src="https://i.imgur.com/cnR9k63.png " height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
+    <P> STEP 27: Click on Next and select "I accept the terms in the License Agreement" </P>
+<img src="https://i.imgur.com/yZxv79a.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
+<img src="https://i.imgur.com/90c4kcH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
+    <p> STEP 28: Select "Typical" installation and click next, click install  </p>
+<img src="https://i.imgur.com/OTz3Il5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
+<img src="https://i.imgur.com/f6JSaPa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
+<img src="https://i.imgur.com/zzHVyAn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
+<img src="https://i.imgur.com/6PafWct.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
+    <p> STEP 29: Install the next wizard and click next </p>
+<img src="https://i.imgur.com/Li6DE73.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
+    <p> STEP 30: Select Standard configuration, then click next </p>
+<img src="https://i.imgur.com/sX6hyLj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
+    <p> Leave this screen alone and click next</p>
+   <img src="https://i.imgur.com/UMo9J7A.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>  
+       <p> STEP 31: Choose a root password and don't forget this password. Make sure you write it down on your notepad some where Click next . </p>
+<img src="https://i.imgur.com/JvmOxSh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
+ <p>STEP 32: Select Excute </p>   
+<img src="https://i.imgur.com/ebNoTYF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
+<img src="https://i.imgur.com/sZe2WCF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
+    <p> STEP 33: </p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
+   
     
 
 
