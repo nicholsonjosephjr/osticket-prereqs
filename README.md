@@ -50,16 +50,16 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/sY7w1H3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p> STEP 9: Click on Aplication Development Features, select CGI and click ok. </p>
 <img src="https://i.imgur.com/IAVpsnx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<p> STEP 10 </p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<p> STEP 11: </p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<p> STEP 12: </p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<p> STEP 13: </p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<p> STEP 14 </p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p> STEP 10: From the “osTicket-Installation-Files” folder on the desktop, install PHP Manager for IIS  </p> 
+<img src="https://i.imgur.com/wfKdyGE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p> STEP 11: On the installation wizard, click on next </p> 
+<img src="https://i.imgur.com/siONvuD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p> STEP 12: On the license agreement, select "I agree" and then click on next </p>
+<img src="https://i.imgur.com/YVJZ266.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p> STEP 13: PHP Manager will now install</p>
+<img src="https://i.imgur.com/LA9PwVU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p> STEP 14 Once complete, click on "Close" to exit </p>
+<img src="https://i.imgur.com/ga1sSNa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p> STEP 15 </p>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p> STEP 16 </p>
@@ -71,39 +71,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p> STEP 20  </p>
     
 
-</p>
-<p>
-I retrieved the public IP address in Azure, I then launched remote desktop and used the public IP address, user name and password I created in the virtual machine to launch the osTicket virtual machine.
-</p>
-<br />
 
-<p>
-<img src="https://i.imgur.com/FaSOdtQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/s638IZ8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/Q3JsnZt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/0pyoofC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Download the osTicket installation files and set the extraction onto your desktop. These files will be used to launch osTicket and it's dependencies. I went to control panel, programs, on the left click "turn windows features on or off" and Enable IIS(Internet information services). Expand world wide services, application development features and then click on CGI to install. 
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/wI7zNbH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-
-<p> Go into the installation file and click on PHP Manager and run the install, install the Rewrite Module. Then create a PHP Directory 
-</p> 
-<img src="https://i.imgur.com/mwtTW0W.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/wI7zNbH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/VT4vXSR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/kY2wWnt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/28y14Lg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/28y14Lg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/bQMjMLD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/oTSIGUt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/rWniffS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/twaDvHm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/YClpW8k.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
     
 </p>
 <p>
