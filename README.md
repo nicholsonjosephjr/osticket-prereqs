@@ -50,6 +50,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/sY7w1H3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p> STEP 9: Click on Aplication Development Features, select CGI and click ok. </p>
 <img src="https://i.imgur.com/IAVpsnx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/RjgCwiL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/HwzfXWh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p> STEP 10: From the “osTicket-Installation-Files” folder on the desktop, install PHP Manager for IIS  </p> 
 <img src="https://i.imgur.com/wfKdyGE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p> STEP 11: On the installation wizard, click on next </p> 
