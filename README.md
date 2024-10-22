@@ -47,7 +47,7 @@ I retrieved the public IP address in Azure, I then launched remote desktop and u
 <img src="https://i.imgur.com/0pyoofC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Download the osTicket installation files and set the extraction onto your desktop. These files will be used to launch osTicket and it's dependencies. I went to control panel, programs, on the left turn windows features on or off and I installed Internet information services and CGI. Expand world wide services, application development features and then click on CGI. Once that's installed, you now can move onto the next step of instalation .
+Download the osTicket installation files and set the extraction onto your desktop. These files will be used to launch osTicket and it's dependencies. I went to control panel, programs, on the left click "turn windows features on or off" and Enable IIS(Internet information services). Expand world wide services, application development features and then click on CGI to install. 
 </p>
 <br />
 
