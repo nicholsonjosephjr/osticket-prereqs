@@ -45,7 +45,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p> STEP 6: On the left side of the box that pops up, click on turn windows features on or off</p>
 <img src="https://i.imgur.com/tC3Cyy8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p> STEP 7: Click on Internet Information Services </p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/zZud6ZZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p> STEP 8: Scroll down to World Wide Web Services, click on the plus sign and and expand the options  </p>
 <img src="https://i.imgur.com/sY7w1H3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p> STEP 9: Click on Aplication Development Features, select CGI and click ok. </p>
