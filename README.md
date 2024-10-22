@@ -35,40 +35,40 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/tgt3ufz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 <p> STEP 2: Go to your downloads folder and right click on the folder and scroll to Extract All </p>
 <img src="https://i.imgur.com/FPKG6b0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<p> STEP 3: Set the destination to desktop and extract all files </p>
+<p> STEP 3: Set the destination to desktop and extract all files. The name of the folder should be titled “osTicket-Installation-Files”</p>
 <img src="https://i.imgur.com/KdHaToK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/rXtaK2D.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<p></p>
+<p>STEP 4: I went to control panel, programs, on the left turn windows features on or off and I installed Internet information services and CGI. Expand world wide services, application development features and then click on CGI. Once that's installed, you now can move onto the next step of instalation </p>
+<img src="https://i.imgur.com/yx4xm8F.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p> STEP 5: Click on programs</p>
+<img src="https://i.imgur.com/x5ECXgx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p> STEP 6: On the left side of the box that pops up, click on turn windows features on or off</p>
+<img src="https://i.imgur.com/tC3Cyy8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p> STEP 7: Click on Internet Information Services </p>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<p></p>
+<p> STEP 8: Scroll down to World Wide Web Services, click on the plus sign and and expand the options  </p>
+<img src="https://i.imgur.com/sY7w1H3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p> STEP 9: Click on Aplication Development Features, select CGI and click ok. </p>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<p></p>
+<p> STEP 10 </p>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<p></p>
+<p> STEP 11: </p>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<p></p>
+<p> STEP 12: </p>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<p></p>
+<p> STEP 13: </p>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<p></p>
+<p> STEP 14 </p>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<p></p>
+<p> STEP 15 </p>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<p></p>
+<p> STEP 16 </p>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<p></p>
+<p> STEP 17 </p>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<p></p>
+<p>STEP 18 </p>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<p></p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<p></p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<p></p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<p></p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<p></p>
+<p> STEP 20  </p>
     
 
 </p>
