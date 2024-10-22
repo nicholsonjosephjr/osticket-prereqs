@@ -31,10 +31,46 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2>
 
-<p>
-<img src="https://i.imgur.com/MrMqc3w.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
-<img src="https://i.imgur.com/QJYEKqI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/33QKu5p.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p> STEP 1: Download the osTicket-Installation-Files.zip </p>
+<img src="https://i.imgur.com/tgt3ufz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+<p> STEP 2: Go to your downloads folder and right click on the folder and scroll to Extract All </p>
+<img src="https://i.imgur.com/FPKG6b0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p> STEP 3: Set the destination to desktop and extract all files </p>
+<img src="https://i.imgur.com/KdHaToK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/rXtaK2D.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p></p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p></p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p></p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p></p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p></p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p></p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p></p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p></p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p></p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p></p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p></p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p></p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p></p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p></p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p></p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p></p>
+    
+
 </p>
 <p>
 I retrieved the public IP address in Azure, I then launched remote desktop and used the public IP address, user name and password I created in the virtual machine to launch the osTicket virtual machine.
