@@ -74,7 +74,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p> STEP 19: On left, Click on "This PC" and the click on "Windows C" </p>
     <img src="https://i.imgur.com/TRtgxxZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
     <p> STEP 20: Create a folder and title it "PHP" make sure all the letters are capitalized </p>
-    <img src="https://i.imgur.com/1yGifha.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> STEP 20  </p>
+    <img src="https://i.imgur.com/buqJYtu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> STEP 20  </p>
     <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> STEP 20  </p>
     <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> STEP 20  </p>
     <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> STEP 20  </p>
