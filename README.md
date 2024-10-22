@@ -69,9 +69,42 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/68sL38j.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p> STEP 17: Once the installation is complete, click on "Finish" </p>
 <img src="https://i.imgur.com/SP92ZxF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<p>STEP 18 </p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<p> STEP 20  </p>
+<p>STEP 18: Create a directory on the C drive called "PHP". To get there, first click on the Manila folder (File Explorer) at the bottom of your screen. </p>
+<img src="https://i.imgur.com/AUcEsD9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p> STEP 19: On left, Click on "This PC" and the click on "Windows C" </p>
+    <img src="https://i.imgur.com/TRtgxxZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+    <p> STEP 20: Create a folder and title it "PHP" make sure all the letters are capitalized </p>
+    <img src="https://i.imgur.com/1yGifha.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> STEP 20  </p>
+    <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> STEP 20  </p>
+    <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> STEP 20  </p>
+    <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> STEP 20  </p>
+    <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> STEP 20  </p>
+    <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> STEP 20  </p>
+    <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> STEP 20  </p>
+    <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> STEP 20  </p>
+    <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> STEP 20  </p>
+    <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> STEP 20  </p>
+    <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> STEP 20  </p>
+    <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> STEP 20  </p>
+    <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> STEP 20  </p>
+    <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> STEP 20  </p>
+    <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> STEP 20  </p>
+    <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> STEP 20  </p>
+    <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> STEP 20  </p>
+    <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> STEP 20  </p>
+    <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> STEP 20  </p>
+    <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> STEP 20  </p>
+    <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> STEP 20  </p>
+    <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> STEP 20  </p>
+    <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> STEP 20  </p>
+    <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> STEP 20  </p>
+    <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> STEP 20  </p>
+    <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> STEP 20  </p>
+    <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> STEP 20  </p>
+    <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> STEP 20  </p>
+    <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> STEP 20  </p>
+    <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> STEP 20  </p>
+    <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
     
 
 
