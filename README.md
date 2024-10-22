@@ -111,22 +111,15 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/sZe2WCF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
     <p> STEP 33: </p>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
    
     
 
 
     
-</p>
-<p>
-Go into the installation file and click on PHP Manager and run the install, install the Rewrite Module. Then create a PHP Directory 
 
-Go to the C drive and create a directory for PHP. Create new folder and title it PHP 
 
-From the "osTicket-Installation-Files” folder, right click on the folder titled 
-php-7.3.8-nts-Win32-VC15-x86 and extract the files on the C drive in the folder PHP that you created in the previous step. 
-
-From the “osTicket-Installation-Files” folder, install VC_redist.x86.exe 
-
-From the “osTicket-Installation-Files” folder, install MySQL 5.5.62  
-</p>
-<br />
