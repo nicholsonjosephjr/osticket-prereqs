@@ -54,11 +54,28 @@ Download the osTicket installation files and set the extraction onto your deskto
 <p>
 <img src="https://i.imgur.com/wI7zNbH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/mwtTW0W.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/wI7zNbH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/VT4vXSR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/kY2wWnt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/28y14Lg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/28y14Lg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/bQMjMLD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/oTSIGUt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/rWniffS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/twaDvHm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/YClpW8k.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+    
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Go into the installation file and click on PHP Manager and run the install, install the Rewrite Module. Then create a PHP Directory 
+
+Go to the C drive and create a directory for PHP. Create new folder and title it PHP 
+
+From the "osTicket-Installation-Files” folder, right click on the folder titled 
+php-7.3.8-nts-Win32-VC15-x86 and extract the files on the C drive in the folder PHP that you created in the previous step. 
+
+From the “osTicket-Installation-Files” folder, install VC_redist.x86.exe 
+
+From the “osTicket-Installation-Files” folder, install MySQL 5.5.62  
 </p>
 <br />
