@@ -60,14 +60,15 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/YVJZ266.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p> STEP 13: PHP Manager will now install</p>
 <img src="https://i.imgur.com/LA9PwVU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<p> STEP 14 Once complete, click on "Close" to exit </p>
+<p> STEP 14: Once complete, click on "Close" to exit </p>
 <img src="https://i.imgur.com/ga1sSNa.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<p> STEP 15 </p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<p> STEP 16 </p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<p> STEP 17 </p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p> STEP 15: From the “osTicket-Installation-Files” folder on the desktop, install the Rewrite Module </p>
+<img src="https://i.imgur.com/mtQtyqq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p> STEP 16: Check the box "I accept the terms in the License Agreement, then click "Install" </p>
+<img src="https://i.imgur.com/hRG8Ulz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/68sL38j.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p> STEP 17: Once the installation is complete, click on "Finish" </p>
+<img src="https://i.imgur.com/SP92ZxF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p>STEP 18 </p>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p> STEP 20  </p>
