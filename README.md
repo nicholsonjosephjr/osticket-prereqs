@@ -118,6 +118,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
     <p> STEP 36: click on the square with the three dots and browse to the "PHP" folder </p>
 <img src="https://i.imgur.com/bN3x34x.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
 <img src="https://i.imgur.com/T15nGj5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
+<img src="https://i.imgur.com/HAUkpXJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
+<img src=" https://i.imgur.com/0En4Iyr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>     
     <p> STEP 37: </p>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
     <p> STEP 38: </p>
@@ -149,9 +151,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
     <p> STEP 51: </p>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
     <p> STEP 52: </p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
+<img src=" https://i.imgur.com/0En4Iyr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
     <p> STEP 53: </p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
+
     <p> STEP 54: </p>
  
 
