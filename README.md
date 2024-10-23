@@ -106,17 +106,54 @@ This tutorial outlines the prerequisites and installation of the open-source hel
    <img src="https://i.imgur.com/UMo9J7A.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>  
        <p> STEP 31: Choose a root password and don't forget this password. Make sure you write it down on your notepad some where Click next . </p>
 <img src="https://i.imgur.com/JvmOxSh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
- <p>STEP 32: Select Excute </p>   
+ <p>STEP 32: Select Excute and then click finish </p>   
 <img src="https://i.imgur.com/ebNoTYF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
 <img src="https://i.imgur.com/iduhjVY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
-    <p> STEP 33: </p>
+    <p> STEP 33: Open IIS as an Admin </p>
+<img src="https://i.imgur.com/1xtCirO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
+    <p> STEP 34: </p>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
+    <p> STEP 35: </p>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
+    <p> STEP 36: </p>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
+    <p> STEP 37: </p>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
+    <p> STEP 38: </p>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
+    <p> STEP 39: </p>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
-   
+    <p> STEP 40: </p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
+    <p> STEP 41: </p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
+    <p> STEP 42: </p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
+    <p> STEP 43: </p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
+<p> STEP 44: </p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
+    <p> STEP 45: </p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
+    <p> STEP 46: </p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
+    <p> STEP 47: </p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
+    <p> STEP 48: </p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
+    <p> STEP 49: </p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
+    <p> STEP 50: </p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
+    <p> STEP 51: </p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
+    <p> STEP 52: </p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
+    <p> STEP 53: </p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
+    <p> STEP 54: </p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
+
     
 
 
