@@ -117,17 +117,13 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/T15nGj5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
 <img src="https://i.imgur.com/0En4Iyr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
 <img src="https://i.imgur.com/HAUkpXJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
-
-    <p> STEP 35: Under PHP Set up, Click on Register new PHP version</p>
+<p> STEP 35: Under PHP Set up, Click on Register new PHP version</p>
 <img src="https://i.imgur.com/SYWijPz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
-    <p> STEP 36: click on the square with the three dots and browse to the "PHP" folder </p>
+<p> STEP 36: click on the square with the three dots and browse to the "PHP" folder </p>
    
- 
-
-<img src="https://i.imgur.com/HAUkpXJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
     
 <p> STEP 37: Click ok, select the file "php-cgi" and click open "</p>
-<img src="https://i.imgur.com/0En4Iyr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
+
 <img src="https://i.imgur.com/XvvJd6y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
     <p> STEP 39: </p>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
