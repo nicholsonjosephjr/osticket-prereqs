@@ -120,8 +120,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/T15nGj5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
 <img src="https://i.imgur.com/HAUkpXJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
 <img src=" https://i.imgur.com/0En4Iyr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>     
-    <p> STEP 37: </p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
+    <p> STEP 37: Click ok, select the file "php-cgi" and click open "</p>
+<img src="https://i.imgur.com/0En4Iyr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
     <p> STEP 38: </p>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
     <p> STEP 39: </p>
