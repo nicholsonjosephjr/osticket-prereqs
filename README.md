@@ -108,7 +108,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/JvmOxSh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
  <p>STEP 32: Select Excute </p>   
 <img src="https://i.imgur.com/ebNoTYF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
-<img src="https://i.imgur.com/sZe2WCF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
+<img src="https://i.imgur.com/iduhjVY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
     <p> STEP 33: </p>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
