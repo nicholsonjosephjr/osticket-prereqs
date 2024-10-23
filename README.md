@@ -111,12 +111,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/iduhjVY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
     <p> STEP 33: Open IIS as an Admin </p>
 <img src="https://i.imgur.com/1xtCirO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
-    <p> STEP 34: </p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
-    <p> STEP 35: </p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
+    <p> STEP 34: Register PHP from within IIS (PHP Manager -> C:\PHP\php-cgi.exe) </p>
+<img src="https://i.imgur.com/g81Mlh2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
+    <p> STEP 35: Under PHP Set up, Click on Register new PHP version</p>
+<img src="https://i.imgur.com/SYWijPz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
     <p> STEP 36: </p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
+<img src="https://i.imgur.com/bN3x34x.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
     <p> STEP 37: </p>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
     <p> STEP 38: </p>
