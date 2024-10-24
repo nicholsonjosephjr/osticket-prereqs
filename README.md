@@ -155,13 +155,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/DNQ3Ruq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
     <p> STEP 50: On the right, click “Browse *:80 </p>
 <img src="https://i.imgur.com/UcF7IfK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
-    <p> STEP 51:  </p>
+    <p> STEP 51: Some of the extensions are not enabled, Go back to IIS, sites -> Default -> osTicket
+</p>
 <img src="https://i.imgur.com/dbbLQK0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
     <p> STEP 52: </p>
-<img src=" https://i.imgur.com/0En4Iyr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
-    <p> STEP 53: </p>
-
-    <p> STEP 54: </p>
+<img src="https://i.imgur.com/Z9MWlPO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
+    
  
 
     
