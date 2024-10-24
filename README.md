@@ -170,11 +170,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/p59x2vK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
     
 <img src="https://i.imgur.com/d1Vew50.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
-    <p> STEP 56: </p>
+  
 <img src="https://i.imgur.com/kllszvu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
-    <p> STEP 57: </p>
+   <p> Refresh the osTicket site in your browser, notice the changes </p>
 <img src="https://i.imgur.com/shH3Uh0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
-    <p> STEP 58: </p>
+ 
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
     <p> STEP 59: </p>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
