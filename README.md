@@ -266,6 +266,18 @@ Create a new session and enter the password "root" which you had set earlier in 
 Hoover over "unnamed" right click and Click "Create New" and then click "Database" 
 <img src="https://i.imgur.com/6jtkf1A.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
 
+Name the database "osTicket" and click ok 
+
+<img src="https://i.imgur.com/04ZZuCh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
+
+You now have a osTicket Database 
+
+<img src="https://i.imgur.com/yfBfo2n.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
+
+
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
+
+
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
 
 
