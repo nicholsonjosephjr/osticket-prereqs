@@ -274,11 +274,7 @@ You now have a osTicket Database
 
 <img src="https://i.imgur.com/yfBfo2n.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
 
-
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
-
-
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
+Congratulations, you have successfully installed osTicket. 
 
 
 
