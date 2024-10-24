@@ -254,15 +254,17 @@ Click Skip
 <img src="https://i.imgur.com/FmPzFxO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
 
 
-Open HeidiSQL and create a new session 
+Open HeidiSQL 
 <img src="https://i.imgur.com/4LQE1Ss.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
 
 Create a new session and enter the password "root" which you had set earlier in the installation for MYSQL Server 
 <img src="https://i.imgur.com/sWAv2Fw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
 
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
 
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
+<img src="https://i.imgur.com/BKH0o43.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
+
+Hoover over "unnamed" right click and Click "Create New" and then click "Database" 
+<img src="https://i.imgur.com/6jtkf1A.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
 
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
 
