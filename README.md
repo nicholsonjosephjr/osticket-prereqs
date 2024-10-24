@@ -174,7 +174,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/kllszvu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
    <p> Refresh the osTicket site in your browser, notice the changes </p>
 <img src="https://i.imgur.com/shH3Uh0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
- 
+ <p> STEP 55: Rename: ost-config.php
+From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
+To: C:\inetpub\wwwroot\osTicket\include\ost-config.php
+</p>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
     <p> STEP 59: </p>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
