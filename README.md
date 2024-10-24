@@ -197,7 +197,6 @@ Right click on "ost-config.php" and scroll down to properties. Assign Permission
 <img src="https://i.imgur.com/EkmV19j.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
     <p> Click on Security and then click on Advanced  </p>
 <img src="https://i.imgur.com/40xIRhP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
-<p> STEP 66 </p>
 
 <p> STEP 67 Disable inheritance, select apply and then click ok </p>
 <img src="https://i.imgur.com/KSHCVIY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
