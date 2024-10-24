@@ -131,10 +131,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/xdRdbV4.png " height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
     <p> Click on Start for the server to run </p>
 <img src="https://i.imgur.com/Uh1ThuP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
-    <p> STEP 41: From the “osTicket-Installation-Files” folder, </p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
-    <p> STEP 42: </p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
+    <p> STEP 41: From the “osTicket-Installation-Files” folder, unzip “osTicket-v1.15.8.zip” by right clicking on the file and extracting it to the same “osTicket-Installation-Files” folder</p>
+<img src="https://i.imgur.com/I8yo14I.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
+    <p> STEP 42: right click on osTicket-v1.15.8 Folder </p>
+<img src="https://i.imgur.com/JHji2Eu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
     <p> STEP 43: </p>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
 <p> STEP 44: </p>
