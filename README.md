@@ -224,7 +224,7 @@ In the box, Set it for "Everyone"
 <img src="https://i.imgur.com/cDWo3ZX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
 
 
-<img src="https://imgur.com/a/QoleIbA" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
+<img src="https://i.imgur.com/KG8Vszi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
  
 
 
