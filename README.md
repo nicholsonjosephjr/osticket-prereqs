@@ -127,9 +127,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/XvvJd6y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
     <p> STEP 39:  Reload IIS (Open IIS, Stop and Start the server) </p>
 <img src="https://i.imgur.com/n4FYk7F.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
+<p> Stop the server for a few seconds (10 seconds) </p>
 <img src="https://i.imgur.com/xdRdbV4.png " height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
+    <p> Click on Start for the server to run </p>
 <img src="https://i.imgur.com/Uh1ThuP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
-    <p> STEP 41: </p>
+    <p> STEP 41: From the “osTicket-Installation-Files” folder, </p>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
     <p> STEP 42: </p>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
