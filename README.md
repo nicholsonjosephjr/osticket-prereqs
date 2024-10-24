@@ -125,8 +125,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p> Register new PHP version </p>
 
 <img src="https://i.imgur.com/XvvJd6y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
-    <p> STEP 39:  </p>
+    <p> STEP 39:  Reload IIS (Open IIS, Stop and Start the server) </p>
 <img src="https://i.imgur.com/n4FYk7F.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
+<img src="https://i.imgur.com/wWDR6de.png " height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
     <p> STEP 40: </p>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
     <p> STEP 41: </p>
