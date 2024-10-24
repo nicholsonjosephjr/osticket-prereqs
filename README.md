@@ -158,7 +158,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
     <p> STEP 51: Some of the extensions are not enabled, Go back to IIS, sites -> Default -> osTicket
 </p>
 <img src="https://i.imgur.com/dbbLQK0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
-    <p> STEP 52: </p>
+    <p> STEP 52: Go back to IIS, sites -> Default -> osTicket, Double click PHP Manager </p>
 <img src="https://i.imgur.com/Z9MWlPO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
     <p> STEP 53: </p>
