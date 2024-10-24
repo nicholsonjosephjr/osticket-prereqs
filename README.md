@@ -160,9 +160,42 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/dbbLQK0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
     <p> STEP 52: </p>
 <img src="https://i.imgur.com/Z9MWlPO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
-    
- 
-
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
+    <p> STEP 53: </p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
+    <p> STEP 54: </p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
+    <p> STEP 55: </p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
+    <p> STEP 56: </p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
+    <p> STEP 57: </p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
+    <p> STEP 58: </p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
+    <p> STEP 59: </p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
+    <p> STEP 60: </p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
+    <p> STEP 61: </p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
+    <p> STEP 62: </p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
+    <p> STEP 63: </p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
+    <p> STEP 64: </p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
+    <p> STEP 65: </p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
+<p> STEP 66 </p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
+<p> STEP 67 </p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
+<p> STEP 68</p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
+<p> STEP 69 </p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
+<p> STEP 70 </p>
     
 
 
