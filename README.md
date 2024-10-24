@@ -139,7 +139,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/JHji2Eu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
     <p> STEP 43: </p>
 <img src="https://i.imgur.com/61iS1kH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
-<p> STEP 44: </p>
+<p> STEP 44: Load a window, click on windows (C:) drive and click on the folders "inetpub/wwwroot </p>
 <img src="https://i.imgur.com/RIyWzmM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
 <img src="https://i.imgur.com/wVOVdyd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
     
