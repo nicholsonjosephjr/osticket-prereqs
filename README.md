@@ -145,18 +145,18 @@ This tutorial outlines the prerequisites and installation of the open-source hel
     
 <p> STEP 45: copy the “upload” folder into "wwwroot" folder  </p>
 <img src="https://i.imgur.com/oUQVdQK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
-    <p> STEP 46: </p>
+    <p> STEP 46:  Rename “upload” to “osTicket”</p>
 <img src="https://i.imgur.com/02YeCw2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
-    <p> STEP 47: </p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
-    <p> STEP 48: </p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
-    <p> STEP 49: </p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
-    <p> STEP 50: </p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
+    <p> STEP 47: Reload IIS and stop the server for 10 seconds   </p>
+<img src="https://i.imgur.com/BjuPpLI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
+    <p> STEP 48: After 10 seconds, click on Start </p>
+<img src="https://i.imgur.com/T8kvJFA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
+    <p> STEP 49:Go to sites -> Default -> osTicket </p>
+<img src="https://i.imgur.com/DNQ3Ruq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
+    <p> STEP 50: On the right, click “Browse *:80 </p>
+<img src="https://i.imgur.com/UcF7IfK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
     <p> STEP 51: </p>
-<img src="https://i.imgur.com/wVOVdyd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
+<img src="https://i.imgur.com/dbbLQK0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
     <p> STEP 52: </p>
 <img src=" https://i.imgur.com/0En4Iyr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
     <p> STEP 53: </p>
