@@ -280,7 +280,7 @@ Click install
 
 <img src="https://i.imgur.com/F37RVVf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
 
-Click install 
+Click Install Now
 
 
 <img src="https://i.imgur.com/JlWK5Tf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
