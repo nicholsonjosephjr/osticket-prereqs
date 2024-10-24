@@ -229,8 +229,7 @@ In the box, Set it for "Everyone"
 <p> Name help desk  </p>
 <img src="https://i.imgur.com/i659pMr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
 
-<p>  From the “osTicket-Installation-Files” folder, install HeidiSQL.
-Open Heidi SQL 
+<p>  From the “osTicket-Installation-Files” folder, Right click on "HeidiSQL_12.3.0.6589_Setup" </p>
 
 <img src="https://i.imgur.com/BSeClVd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
 
