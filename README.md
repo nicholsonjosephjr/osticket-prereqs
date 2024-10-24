@@ -257,8 +257,8 @@ Click Skip
 Open HeidiSQL and create a new session 
 <img src="https://i.imgur.com/4LQE1Ss.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
 
-
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
+Create a new session and enter the password "root" which you had set earlier in the installation for MYSQL Server 
+<img src="https://i.imgur.com/sWAv2Fw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
 
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
 
