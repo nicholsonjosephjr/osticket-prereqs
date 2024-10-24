@@ -206,7 +206,18 @@ Right click on "ost-config.php" and scroll down to properties. Assign Permission
 <p> Select apply and then click ok </p>
 <img src="https://i.imgur.com/LP7APFH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
 
-https://i.imgur.com/LP7APFH.png
+<p> Click on Principle </p>
+
+<img src="https://i.imgur.com/PdSbgHx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
+
+<img src="https://i.imgur.com/PdSbgHx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
+
+<img src="https://i.imgur.com/PdSbgHx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
+
+<img src="https://i.imgur.com/PdSbgHx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
+
+<img src="https://i.imgur.com/PdSbgHx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
+
     
 
 
