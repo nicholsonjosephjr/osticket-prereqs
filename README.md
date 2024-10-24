@@ -186,10 +186,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
    <p> Click on the include folder </p>
 <img src="https://i.imgur.com/TSqO5wI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
   <p> Go to the file "ost-sampleconfig.php" and rename it to "ost-config.php" </p> 
+<img src="https://i.imgur.com/GUpBfSw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
 <img src="https://i.imgur.com/2TXOQpC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
 
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
-    <p> STEP 64: </p>
+
+<p> STEP 64: </p>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
     <p> STEP 65: </p>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
