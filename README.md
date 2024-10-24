@@ -226,8 +226,10 @@ In the box, Set it for "Everyone"
 <p> Continue Setting up osTicket in the browser (click Continue) </p>
 <img src="https://i.imgur.com/KG8Vszi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
 
+<p> Name help desk  </p>
+<img src=" https://i.imgur.com/i659pMr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
 
- 
+
 
 
     
