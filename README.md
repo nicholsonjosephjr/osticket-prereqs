@@ -167,13 +167,13 @@ This tutorial outlines the prerequisites and installation of the open-source hel
  <p> STEP 54: - Enable: php_imap.dll  </p>
              <p> - Enable: php_intl.dll </p>
              <p> - Enable: php_opcache.dll </p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
-    <p> STEP 55: </p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
+<img src="https://i.imgur.com/p59x2vK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
+    
+<img src="https://i.imgur.com/d1Vew50.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
     <p> STEP 56: </p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
+<img src="https://i.imgur.com/kllszvu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
     <p> STEP 57: </p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
+<img src="https://i.imgur.com/shH3Uh0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
     <p> STEP 58: </p>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
     <p> STEP 59: </p>
