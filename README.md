@@ -246,9 +246,12 @@ Click Next
 At this point, program is installing 
 <img src="https://i.imgur.com/xqtCwkW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
 Make sure the box "Laugh HeidiSQL is checked and then click Finish
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
 
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
+<img src="https://i.imgur.com/O6ANgWR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
+
+Click Skip
+
+<img src="https://i.imgur.com/FmPzFxO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
 
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
 
