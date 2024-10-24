@@ -143,7 +143,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/RIyWzmM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
 <img src="https://i.imgur.com/wVOVdyd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
     
-<p> STEP 45: </p>
+<p> STEP 45: copy the “upload” folder into "wwwroot" folder  </p>
 <img src="https://i.imgur.com/oUQVdQK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
     <p> STEP 46: </p>
 <img src="https://i.imgur.com/02YeCw2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
