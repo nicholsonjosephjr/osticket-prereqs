@@ -190,21 +190,23 @@ This tutorial outlines the prerequisites and installation of the open-source hel
     <p> Right click and scroll down to "Rename" file to "ost-config.php" </p> </p>
 <img src="https://i.imgur.com/2TXOQpC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
 
-<p> Assign Permissions: ost-config.php
+<p> Assign Permissions to "ost-config.php"
+    
 Right click on "ost-config.php" and scroll down to properties. Assign Permissions: ost-config.php
  </p>
 <img src="https://i.imgur.com/EkmV19j.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
-    <p> STEP 65:  </p>
+    <p> Click on Security and then click on Advanced  </p>
 <img src="https://i.imgur.com/40xIRhP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
 <p> STEP 66 </p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
-<p> STEP 67 </p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
-<p> STEP 68</p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
-<p> STEP 69 </p>
+<img src="https://i.imgur.com/KSHCVIY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
+<p> STEP 67 Disable inheritance -> Remove All </p>
+<img src="https://i.imgur.com/KSHCVIY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
+<p> Click on "Remove all inherited permissions from this object" </p>
+<img src="https://i.imgur.com/VH60dH8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
+<p> Select apply and then click ok </p>
+<img src="https://i.imgur.com/LP7APFH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
 
-<p> STEP 70 </p>
+https://i.imgur.com/LP7APFH.png
     
 
 
