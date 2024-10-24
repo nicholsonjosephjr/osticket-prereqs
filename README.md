@@ -178,16 +178,16 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <P> - From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php </P>
 <P> - To: C:\inetpub\wwwroot\osTicket\include\ost-config.php </P>
 </p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
-    <p> STEP 59: </p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
-    <p> STEP 60: </p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
-    <p> STEP 61: </p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
-    <p> STEP 62: </p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
-    <p> STEP 63: </p>
+<img src="https://i.imgur.com/GmEkHen.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
+  
+<img src="https://i.imgur.com/AkYNeeO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
+   <P> Click on the osTicket folder </P>
+<img src="https://i.imgur.com/cP9chFj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
+   <p> Click on the include folder </p>
+<img src="https://i.imgur.com/TSqO5wI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
+  <p> Go to the file "ost-sampleconfig.php" and rename it to "ost-config.php" </p> 
+<img src="https://i.imgur.com/2TXOQpC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
+
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
     <p> STEP 64: </p>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
