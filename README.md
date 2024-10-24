@@ -230,10 +230,36 @@ In the box, Set it for "Everyone"
 <img src="https://i.imgur.com/i659pMr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
 
 <p>  From the “osTicket-Installation-Files” folder, install HeidiSQL.
-Open Heidi SQL
-Create a new session, root/root
-Connect to the session
-Create a database called “osTicket” </p>
+Open Heidi SQL 
+
+<img src="https://i.imgur.com/BSeClVd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
+
+
+<img src="https://i.imgur.com/TlJVMbS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
+
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
+
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
+
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
+
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
+
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
+
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
+
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
+
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
+
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
+
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
+
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
+
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
 
 
 
