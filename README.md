@@ -162,8 +162,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/Z9MWlPO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p> 
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
     <p> STEP 53: Go to PHP extensions, Click Enable or Disable extension </p>
-<img src="https://i.imgur.com/BtXwOp6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
-    <p> STEP 54: - Enable: php_imap.dll  </p>
+
+ <p> STEP 54: - Enable: php_imap.dll  </p>
              <p> - Enable: php_intl.dll </p>
              <p> - Enable: php_opcache.dll </p>
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
