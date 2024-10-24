@@ -229,23 +229,23 @@ In the box, Set it for "Everyone"
 <p> Name help desk  </p>
 <img src="https://i.imgur.com/i659pMr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
 
-<p>  From the “osTicket-Installation-Files” folder, Right click on "HeidiSQL_12.3.0.6589_Setup" </p>
+<p>  From the “osTicket-Installation-Files” folder, Right click on "HeidiSQL_12.3.0.6589_Setup" and click open </p>
 
 <img src="https://i.imgur.com/BSeClVd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
 
-
+Select "I accept the aggrement" and click next 
 <img src="https://i.imgur.com/TlJVMbS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
-
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
-
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
-
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
-
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
-
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
-
+Click Next 
+<img src="https://i.imgur.com/8ARqlYo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
+Click Next 
+<img src="https://i.imgur.com/q3axqmk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
+Click Next 
+<img src="https://i.imgur.com/wxYonTT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
+Click Next 
+<img src="https://i.imgur.com/QNc6Ygp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
+At this point, program is installing 
+<img src="https://i.imgur.com/xqtCwkW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
+Make sure the box "Laugh HeidiSQL is checked and then click Finish
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
 
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
