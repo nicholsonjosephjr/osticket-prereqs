@@ -214,7 +214,8 @@ In the box, Set it for "Everyone"
 
 <img src="https://i.imgur.com/RSgNS5k.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
 
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
+<P> Make sure all permissions are checked off and clikc ok </P>
+<img src="https://i.imgur.com/OKTlj0y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
 
 <img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
 
