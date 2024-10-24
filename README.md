@@ -210,13 +210,15 @@ Right click on "ost-config.php" and scroll down to properties. Assign Permission
 
 <img src="https://i.imgur.com/PdSbgHx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
 
-<img src="https://i.imgur.com/PdSbgHx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
+In the box, Set it for "Everyone" 
 
-<img src="https://i.imgur.com/PdSbgHx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
+<img src="https://i.imgur.com/RSgNS5k.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
 
-<img src="https://i.imgur.com/PdSbgHx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
 
-<img src="https://i.imgur.com/PdSbgHx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
+
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/><p>
 
     
 
